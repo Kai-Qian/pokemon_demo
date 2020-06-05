@@ -1,4 +1,4 @@
-Django==1.10.3
+Django==1.11.29
 PySocks==1.5.7
 PyYAML==3.12
 argparse==1.2.1
