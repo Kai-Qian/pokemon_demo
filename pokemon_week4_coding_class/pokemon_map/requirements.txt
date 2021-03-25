@@ -1,6 +1,6 @@
 Django==1.10.3
 PySocks==1.5.7
-PyYAML==3.12
+PyYAML==5.4
 argparse==1.2.1
 awsebcli==3.8.4
 backports.ssl-match-hostname==3.5.0.1
