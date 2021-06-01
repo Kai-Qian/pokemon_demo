@@ -40,7 +40,7 @@ semantic-version==2.5.0
 six==1.5.2
 ssh-import-id==3.21
 texttable==0.8.7
-urllib3==1.7.1
+urllib3==1.26.5
 virtualenv==1.11.4
 wcwidth==0.1.7
 websocket-client==0.37.0
